@@ -1,1 +1,8 @@
 ## GIT
+git init
+git config user.name "Maerey-Kris S Tagaloguin"
+git config user.email "tagaloguinm@sic.edu.ph"
+git add .
+git commit -m "First Commit"
+
+# Lorem Ipsum Dolor Set Amet
